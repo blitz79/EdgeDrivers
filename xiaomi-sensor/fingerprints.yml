@@ -19,3 +19,8 @@ zigbeeManufacturer:
     manufacturer: LUMI
     model: lumi.sensor_switch.aq2
     deviceProfileName: button-battery
+  - id: "LUMI/lumi.sensor_magnet.aq2"
+    deviceLabel: Aqara Contact
+    manufacturer: LUMI
+    model: lumi.sensor_magnet.aq2
+    deviceProfileName: contact-battery
